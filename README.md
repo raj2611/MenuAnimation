@@ -1,5 +1,6 @@
 # demo
 
+![demo](https://github.com/raj2611/MenuAnimation/blob/master/exp.gif)
 A new Flutter project.
 
 ## Getting Started

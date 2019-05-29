@@ -1,17 +1,6 @@
-# demo
-
-![demo](https://github.com/raj2611/MenuAnimation/blob/master/exp.gif)
+# Menu Animation 
 A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/raj2611/MenuAnimation/blob/master/exp.gif" align="left" height="600" width="300" >
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
